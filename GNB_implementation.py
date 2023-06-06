@@ -1,6 +1,7 @@
 #Gaussian Naive Bayes tutorial on a data set of 20 points
 #with 3 classes and 2 distinct features
 #credits to Dr Robert Kubler
+#https://towardsdatascience.com/learning-by-implementing-gaussian-naive-bayes-3f0e3d2c01b2
 from sklearn.datasets import make_blobs
 from sklearn.naive_bayes import GaussianNB
 import numpy as np
